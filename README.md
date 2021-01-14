@@ -14,6 +14,8 @@ The MLP library is heavily parameterized. You can set parameters for:
  * Number of layers
  * Number of neuron per layer
 
+and many more.
+
 **-----USAGE-----**
 1. Create any dataset you want. To use the build-in functions:
  * For the train data create a txt file with the data in one row 
