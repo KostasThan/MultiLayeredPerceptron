@@ -1,18 +1,18 @@
 # MultiLayeredPerceptron
-This class implemenets a Multi Layered Perceptron.
+This project realises a Multi Layered Perceptron.
 There is an already predifined classification problem with 4 categories.
 Inside the resources file can be found 2 txt files:
  * A file containing the train group with 3000 lines of data and a noise of around 8%.
  * A file containing the test group with 3000 lines of data and no noise.
 
-After some research the best generalization error achieved was around 6% and an obj of mlp
-is at the resources folder for you to load and test.
+After some research the best generalization error achieved was around 6% and a .obj file of 
+the mlp is at the resources folder for you to load and test.
 
 The MLP library is heavily parameterized. You can set parameters for:
  * Batch size
- * Activation function
+ * Activation functions
  * Number of layers
- * Number of neuron per layer
+ * Number of neurons per layer
 
 and many more.
 
